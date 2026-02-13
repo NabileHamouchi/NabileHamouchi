@@ -1,115 +1,89 @@
-# 👋 Salut, moi c'est [Ton Prénom]
+# 👋 Salut, moi c'est Nabile
 
-🎓 **Étudiant en M2 Cybersécurité** | 🔐 **Futur Analyste SOC**  
-🚀 **En recherche active d'alternance** pour Septembre 2025
+🎓 **M2 Cybersécurité** | 🔐 **SOC Analyst** | 🐍 **Python Automation**  
+🎯 **En recherche de stage SOC/SIEM** (4-6 mois, dès mars 2026)
 
 ---
 
-## 🎯 Mon Challenge 90 Jours
+## 🚀 Projet Principal
 
-Je me suis lancé un défi : **décrocher mon alternance en cybersécurité avant le 31 décembre 2025**.
+### 🍯 [Honeypot Threat Intelligence Platform](https://github.com/nabile-hamouchi/honeypot-threat-intel)
 
-**Comment ?**  
-→ 5 projets GitHub en cybersécurité défensive  
-→ Certifications (Google Cyber + TryHackMe)  
-→ Transparence totale sur LinkedIn  
+Plateforme de détection de menaces SSH avec monitoring SIEM temps réel sur infrastructure cloud.
 
-📊 **Progression actuelle :** [Jour X/90] | ⚡ Projets réalisés : [X/5]
+**Stack :** Cowrie | Splunk Enterprise | Google Cloud Platform | Python | SPL
+
+**Highlights :**
+- 📊 2000+ attaques analysées en 48h (20 IPs, 5 pays)
+- ⚡ Détection < 1 minute (alerting temps réel)
+- 🎯 0% faux positifs (seuils optimisés)
+- 📋 Incident Response documenté (rapport IR complet)
+
+**Compétences :** SIEM (Splunk), Alerting, Incident Response, Threat Intelligence, Cloud (GCP), Python
 
 ---
 
 ## 🛠️ Stack Technique
 
-**Langages :**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+**SIEM & Monitoring**  
+`Splunk Enterprise` · `Log Analysis` · `SPL` · `Alerting` · `Dashboards`
 
-**Outils SOC/Blue Team :**  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![ELK](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
+**Security Operations**  
+`Incident Response` · `Threat Intelligence` · `MITRE ATT&CK` · `Honeypots (Cowrie)`
 
-**Systèmes :**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+**Outils Cyber**  
+`Wireshark` · `Nmap` · `Burp Suite` · `Metasploit` · `Hydra` · `TryHackMe`
 
----
+**Dev & Automation**  
+`Python 3` · `Bash` · `SQL` · `Git`
 
-## 🔥 Mes Projets Cyber
-
-### 🎯 Projets SOC / Blue Team
-
-| Projet | Description | Stack | Statut |
-|--------|-------------|-------|--------|
-| **[SIEM Homemade](#)** | Détection d'intrusions custom en Python | Python, Flask, SQLite | ⏳ En cours |
-| **[Honeypot SSH Intelligent](#)** | Analyse comportementale des attaquants | Cowrie, Pandas, Matplotlib | 🔜 À venir |
-| **[SOAR Simplifié](#)** | Automatisation réponse incidents | Python, APIs, iptables | 🔜 À venir |
-| **[Threat Intel Platform](#)** | Agrégateur OSINT avec dashboard | MongoDB, Streamlit, APIs | 🔜 À venir |
-| **[Blue Team Challenge](#)** | Investigation forensic complète | Autopsy, Volatility, Wireshark | 🔜 À venir |
-
-### 🎯 Projet Bonus (si temps)
-
-| Projet | Description | Stack | Statut |
-|--------|-------------|-------|--------|
-| **[Pentest Report](#)** | Audit complet infrastructure vulnérable | Nmap, Metasploit, Burp Suite | 🔜 Si temps disponible |
+**Infrastructure**  
+`Google Cloud Platform` · `Linux (Ubuntu/Kali)` · `Docker (notions)`
 
 ---
 
-## 📜 Certifications & Formations
+## 📚 Formation & Certifications
 
-- 🎓 **Google Cybersecurity Certificate** - En cours (X% complété)
-- 🎮 **TryHackMe SOC Level 1 Path** - En cours (X% complété)
-- 📚 **M2 Cybersécurité** - [Nom de ton école]
-
----
-
-## 📊 Stats GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON-USERNAME&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON-USERNAME&layout=compact&theme=radical)
+**Actuellement :**
+- 🎓 **M2 Cybersécurité** 
+- 🎮 **TryHackMe** - SOC Level 1 Learning Path (50% complété)
 
 ---
 
 ## 🎯 Ce que je recherche
 
-**Type de poste :** Alternance Analyste SOC / Cyber Threat Analyst  
-**Rythme :** 2-3 jours/semaine  
-**Début :** Septembre 2025  
-**Durée :** 12-24 mois  
-**Localisation :** [Ta ville] / Remote partiel accepté
+**Stage SOC/SIEM Analyst**  
+📅 Début : Mars 2026  
+⏱️ Durée : 4-6 mois  
+📍 Localisation : France | Remote partiel accepté
 
-**Secteurs ciblés :**  
-✅ ESN Cybersécurité  
-✅ Défense & Aérospatial  
-✅ Santé & Industrie  
-✅ Tech & Cloud  
-
----
-
-## 📫 Me contacter
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TON-LIEN-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TON-EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TON-USERNAME)
+**Compétences apportées :**
+- Configuration SIEM production-grade (Splunk)
+- Création de règles d'alerting temps réel
+- Incident Response & documentation
+- Threat Intelligence analysis
+- Automation Python pour tâches SOC
 
 ---
 
-## 💡 Fun Facts
+## 📫 Contact
 
-- 🎯 Challenge actuel : 90 jours pour décrocher mon alternance
-- 🔐 Passionné par la détection de menaces et l'automatisation
-- 📚 J'apprends en public et partage mes projets
-- ⚡ "La meilleure défense est une bonne détection"
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamouchi-nabile-935429357/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hamouchi.nabile@proton.me)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NabileHamouchi)
 
 ---
 
 <div align="center">
 
-**🚀 Suivi mon challenge sur [LinkedIn](TON-LIEN) !**
+💡 **Passionné par la détection de menaces et l'automatisation SOC**
 
-![Profile Views](https://komarev.com/ghpvc/?username=TON-USERNAME&color=blueviolet&style=for-the-badge)
+*"La meilleure défense est une détection rapide"*
+
+![Profile Views](https://komarev.com/ghpvc/?username=nabile-hamouchi&color=blue&style=flat-square)
 
 </div>
+
+
+
+Je suis disponible pour discuter de votre besoin en stage SOC/SIEM.
